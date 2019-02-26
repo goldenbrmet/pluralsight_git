@@ -1,1 +1,2 @@
 Some text in file 1
+Additional change to file 1
