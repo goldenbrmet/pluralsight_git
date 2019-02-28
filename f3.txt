@@ -1,2 +1,4 @@
 Some text in file 3 to master branch!
 Additional change to file 3
+
+Stashed changes 
